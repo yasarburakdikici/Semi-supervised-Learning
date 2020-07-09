@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02a277f8-d51c-484a-a60a-aaed71fb3c37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XqNlTHln2UVnxmngb6Bv6LdqyV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.preprocessing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/preprocessing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vectorization.CFG" />
+      <module name="forWeka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vectorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.preprocessing.CreateModel" />
+      <module name="forWeka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vectorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.preprocessing.Main" />
+      <module name="forWeka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vectorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaiveBayesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vectorization.NaiveBayesDemo" />
+      <module name="forWeka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vectorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchFolders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vectorization.SwitchFolders" />
+      <module name="forWeka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vectorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SwitchFolders" />
+        <item itemvalue="Application.CFG" />
+        <item itemvalue="Application.CreateModel" />
+        <item itemvalue="Application.NaiveBayesDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02a277f8-d51c-484a-a60a-aaed71fb3c37" name="Default Changelist" comment="" />
+      <created>1581769815584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581769815584</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="863" y="421" width="251" height="263" key="#Notifications" timestamp="1593548783813">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="863" y="421" width="251" height="263" key="#Notifications/67.27.1853.1053@67.27.1853.1053" timestamp="1593548783813" />
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure" timestamp="1586371868349">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1586371868349" />
+    <state x="242" y="116" width="1482" height="872" key="DiffContextDialog" timestamp="1593548711279">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="242" y="116" width="1482" height="872" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593548711279" />
+    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl" timestamp="1593190244464">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="615" y="296" width="735" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1593190244464" />
+    <state x="852" y="452" key="Github.ShareDialog" timestamp="1593549593874">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="852" y="452" key="Github.ShareDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593549593874" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1593546398860">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1593546398860" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1593546398859">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1593546398859" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1593546398859">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1593546398859" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1593546398860">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1593546398860" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1589056508428">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1589056508428" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1589056508428">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1589056508428" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1589056508428">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1589056508428" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1589056508428">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1589056508428" />
+    <state x="579" y="299" width="819" height="507" key="NewModule_or_Project.wizard" timestamp="1586370718768">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="579" y="299" width="819" height="507" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1586370718768" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1593190227334">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1593190227334" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1593549171245">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1593549171245" />
+    <state x="694" y="453" width="589" height="199" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593549551476">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="694" y="453" width="589" height="199" key="git4idea.remote.GitConfigureRemotesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593549551476" />
+    <state x="777" y="449" width="423" height="207" key="git4idea.ui.GitResetDialog" timestamp="1593548993829">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="777" y="449" width="423" height="207" key="git4idea.ui.GitResetDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1593548993829" />
+    <state x="497" y="165" width="1372" height="796" key="new project wizard" timestamp="1592595667678">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="497" y="165" width="1372" height="796" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1592595667678" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1585581731432">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585581731432" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1589930798991">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1589930798991" />
+  </component>
+</project>
